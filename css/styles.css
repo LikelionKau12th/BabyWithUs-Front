@@ -61,6 +61,19 @@
 .CWU{
     margin-right: 250px;
 }
+.p1 {
+    font-family: "Jua", sans-serif;
+    font-size: 20px;
+}
+.category p {
+    font-family: "Oleo Script Swash Caps", system-ui;
+    color: #777;
+    width: 150px;
+    height: auto;
+}
+.orangeColoredAlaphabet{
+    color: #F6BC72;
+}
 /*-------------------여기까지 Navbar Css-----------------*/
 .mainContents{
     margin-right: 150px;
