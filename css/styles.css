@@ -1,5 +1,5 @@
 .body {
-    font-family: "Jua", sans-serif;
+    font-family: "Jua";
     margin: 0;
     padding: 0;
     background-color: #fff;
@@ -62,7 +62,7 @@
     margin-right: 250px;
 }
 .p1 {
-    font-family: "Jua", sans-serif;
+    font-family: "Jua";
     font-size: 20px;
 }
 .category p {
@@ -79,14 +79,12 @@
     margin-right: 150px;
     margin-left: 160px;
 }
-
 .categories {
     display: flex;
     margin: 20px 0;
     justify-content: space-around;
     align-content: center;
 }
-
 .category {
     padding: 30px;
     border-radius: 10px;
@@ -94,12 +92,9 @@
     transition: transform 0.3s;
     justify-content: space-between;
 }
-
-
 .baby {
     background-color: #FFF6EB;
 }
-
 .mom {
     display: flex;
     align-content: center;
@@ -122,7 +117,6 @@
     /*margin-left: 300px;*/
     margin-top: -20px;
 }
-
 .momsIcon{
     height: 210px;
     margin-right: 0;
@@ -140,7 +134,6 @@
     font-family: "Jua", sans-serif;
     font-size: 20px;
 }
-
 .category p {
     font-family: "Oleo Script Swash Caps", system-ui;
     color: #777;
@@ -150,38 +143,30 @@
 .orangeColoredAlaphabet{
     color: #F6BC72;
 }
-
 .yellow {
     background-color: #FFF6EB;
 }
-
 .pink {
     background-color: #FCF1F1;
 }
-
 .blue {
     background-color: #EBF3FF;
 }
-
 .info {
     display: none;
     padding: 20px;
     border-radius: 10px;
     margin-top: 20px;
 }
-
 .yellow-info {
     background-color: #FFF6EB;
 }
-
 .pink-info {
     background-color: #FCF1F1;
 }
-
 .blue-info {
     background-color: #EBF3FF;
 }
-
 footer {
     text-align: center;
     padding: 15px;
